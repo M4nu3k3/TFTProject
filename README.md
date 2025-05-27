@@ -3,8 +3,6 @@
 Projet réalisé dans le cadre de ma formation.  
 L'objectif est de créer une application Web PHP de gestion des unités du jeu **Team Fight Tactics**, avec la possibilité de les ajouter, modifier, supprimer, rechercher... le tout en respectant une architecture **MVC** claire et modulable.
 
----
-
 ## Fonctionnalités principales
 
 - Affichage de la liste des unités (avec images, coût, origines)
@@ -15,8 +13,6 @@ L'objectif est de créer une application Web PHP de gestion des unités du jeu *
 - Gestion des origines multiples (jusqu’à 3 par unité)
 - Messages dynamiques (erreurs, confirmations…)
 - Un rendu propre et structuré via un moteur de template
-
----
 
 ## Technologies utilisées
 
