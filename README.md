@@ -1,11 +1,11 @@
-# 🎯 Projet PHP - Gestion des unités TFT
+# Projet PHP - Gestion des unités TFT
 
-Bienvenue dans mon projet PHP développé dans le cadre des TPs de développement web.  
-L'objectif est de créer une application de gestion des unités du jeu **Team Fight Tactics**, avec la possibilité de les ajouter, modifier, supprimer, rechercher... le tout en respectant une architecture **MVC** claire et modulable.
+Projet réalisé dans le cadre de ma formation.  
+L'objectif est de créer une application Web PHP de gestion des unités du jeu **Team Fight Tactics**, avec la possibilité de les ajouter, modifier, supprimer, rechercher... le tout en respectant une architecture **MVC** claire et modulable.
 
 ---
 
-## 🛠️ Fonctionnalités principales
+## Fonctionnalités principales
 
 - Affichage de la liste des unités (avec images, coût, origines)
 - Ajout d’unités via formulaire
@@ -18,7 +18,7 @@ L'objectif est de créer une application de gestion des unités du jeu **Team Fi
 
 ---
 
-## 🔧 Technologies utilisées
+## Technologies utilisées
 
 - **PHP 8.x**
 - **MySQL**
